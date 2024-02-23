@@ -150,6 +150,16 @@ esMacabra(Empresa) :-
     forall(esSalaDe(Sala, Empresa), sala(Sala, terrorifica(_, _))).
 
 
+% OTRA FORMA
+
+esMacabraV2(Empresa):-
+    esSalaDe(_, Empresa),
+    forall(esSalaDe(Sala, Empresa), esTerrorifica(Sala)).
+
+esTerrorifica(Sala):-
+    sala(Sala, terrorifica(_, _)).
+
+
 % 5) Empresa copada
 
 empresaCopada(Empresa) :-

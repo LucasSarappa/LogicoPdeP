@@ -1,3 +1,5 @@
+https://github.com/Prolog-Uqbar/integradorSimpleAutos
+
 %auto(identificacion, combustible, capacidad, seguridad)
 auto(mcqueen, 40, 50, 5).
 auto(delorean, 50, 60, 7).

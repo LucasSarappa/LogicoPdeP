@@ -1,5 +1,7 @@
 % Resolucion: https://github.com/MelanyGassmann/ParcialesLogico/blob/master/Eclipse.pl (nose si esta bien)
 
+Otra resolucion: https://github.com/Prolog-Uqbar/integradorEclipse
+
 %relaciona una provincia con su ciudad
 provincia(buenosAires,arrecifes).
 provincia(buenosAires,carmenDeAreco).
