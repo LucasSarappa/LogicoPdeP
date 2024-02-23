@@ -1,0 +1,1 @@
+https://github.com/frcenturion/parciales-logico/blob/main/Parciales%20de%20practica/Parcial4.pl

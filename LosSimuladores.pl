@@ -1,0 +1,2 @@
+Enunciado: https://github.com/Aeiroa/Practica_Logico/blob/master/Parcial%20L%C3%B3gico%20Resuelto%20-%20Los%20Simuladores.pdf
+Resolucion: https://github.com/Aeiroa/Practica_Logico/blob/master/Los%20Simuladores%20-%20Resoluci%C3%B3n.txt

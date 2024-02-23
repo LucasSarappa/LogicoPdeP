@@ -1,0 +1,1 @@
+https://github.com/Santiagomorel/practicaParaParcialProlog/blob/main/avatar.pl (no se si esta ok)

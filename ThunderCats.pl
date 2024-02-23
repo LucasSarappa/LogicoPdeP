@@ -1,0 +1,1 @@
+https://www.utnianos.com.ar/foro/tema-parcial-l%C3%B3gico-thundercats

@@ -1,0 +1,1 @@
+https://github.com/mgerezqa/paradigmaLogico/blob/main/Mas/Logico/Sims.pl (nose si esta bien)

@@ -1,0 +1,1 @@
+https://github.com/mgerezqa/paradigmaLogico/tree/main/parcialLogicoPokemonMG

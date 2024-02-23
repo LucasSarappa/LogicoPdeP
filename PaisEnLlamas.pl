@@ -1,0 +1,1 @@
+https://github.com/frcenturion/parciales-logico/tree/main/Parciales%20de%20practica

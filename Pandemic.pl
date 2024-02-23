@@ -1,0 +1,1 @@
+https://github.com/MaquedaPaul/parciales-logico/tree/main/Pandemic
